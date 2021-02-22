@@ -20,6 +20,9 @@ Bear Watcher allows users to add a bear to track, keep up with fishing habits an
 - Form to add a new bear to be tracked, required name and image URL
 - The array of bear cards which shows the current list of bears being tracked. Bear name, image, and information including: Last Fish Caught with timestamp, Last Fish Missed with timestamp, Total Fish Caught tracker, and buttons to indicate that the bear is fishing or caught a fish which updates the respective timestamps. 
 
+# Screenshots
+https://github.com/caseywalker/ASSIGNMENT-Bear-Watcher/blob/main/assets/Intro.PNG
+https://github.com/caseywalker/ASSIGNMENT-Bear-Watcher/blob/main/assets/River.PNG
 ## Contributors
 [Casey Walker](https://github.com/caseywalker)
 
